@@ -7,9 +7,10 @@ import "./index.css";
 
 import App from "./components/App";
 
+import middleware from "./middleware";
 import reducer from "./reducers";
 
-const store = createStore(reducer);
+const store = createStore(reducer, middleware);
 
 const Root = () => {
   return (
