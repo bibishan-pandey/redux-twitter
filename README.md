@@ -1,3 +1,7 @@
+# Redux Project
+Project to solidify the redux principles.
+[Live Demo](https://bibishan-pandey.github.io/redux-twitter/)
+
 # Chirper Project
 
 This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
