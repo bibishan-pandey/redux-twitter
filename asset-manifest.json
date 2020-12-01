@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/redux-twitter/static/css/main.c47ca6d0.chunk.css",
-    "main.js": "/redux-twitter/static/js/main.0d6dddfd.chunk.js",
-    "main.js.map": "/redux-twitter/static/js/main.0d6dddfd.chunk.js.map",
+    "main.js": "/redux-twitter/static/js/main.d3248b61.chunk.js",
+    "main.js.map": "/redux-twitter/static/js/main.d3248b61.chunk.js.map",
     "runtime-main.js": "/redux-twitter/static/js/runtime-main.3d96f7eb.js",
     "runtime-main.js.map": "/redux-twitter/static/js/runtime-main.3d96f7eb.js.map",
     "static/js/2.de6db6b8.chunk.js": "/redux-twitter/static/js/2.de6db6b8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3d96f7eb.js",
     "static/js/2.de6db6b8.chunk.js",
     "static/css/main.c47ca6d0.chunk.css",
-    "static/js/main.0d6dddfd.chunk.js"
+    "static/js/main.d3248b61.chunk.js"
   ]
 }
